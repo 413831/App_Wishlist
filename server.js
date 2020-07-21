@@ -1,7 +1,6 @@
 
 const express = require('express');
 // Request para servicio captcha
-const request = require("request");
 const path = require('path');
 const port = 8080;
 
